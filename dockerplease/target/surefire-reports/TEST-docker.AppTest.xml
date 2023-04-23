@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="docker.AppTest" time="0.148" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="docker.AppTest" time="0.19" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -17,7 +17,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="C:\Users\Krish\Java\jdk-11\bin"/>
-    <property name="sun.java.command" value="C:\Users\Krish\AppData\Local\Temp\surefire5592678825006439999\surefirebooter17416346702219835916.jar C:\Users\Krish\AppData\Local\Temp\surefire5592678825006439999 2023-04-23T22-22-31_430-jvmRun1 surefire6605069403438315217tmp surefire_08918110850166280956tmp"/>
+    <property name="sun.java.command" value="C:\Users\Krish\AppData\Local\Temp\surefire16457324289661387779\surefirebooter12956406138457865429.jar C:\Users\Krish\AppData\Local\Temp\surefire16457324289661387779 2023-04-23T22-56-14_748-jvmRun1 surefire737002832505252267tmp surefire_048168903204601422tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\Krish\.vscode\programs\pleasedocker\dockerplease\target\test-classes;C:\Users\Krish\.vscode\programs\pleasedocker\dockerplease\target\classes;C:\Users\Krish\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.6.0\junit-jupiter-api-5.6.0.jar;C:\Users\Krish\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\Krish\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Krish\.m2\repository\org\junit\platform\junit-platform-commons\1.6.0\junit-platform-commons-1.6.0.jar;C:\Users\Krish\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.6.0\junit-jupiter-engine-5.6.0.jar;C:\Users\Krish\.m2\repository\org\junit\platform\junit-platform-engine\1.6.0\junit-platform-engine-1.6.0.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -33,7 +33,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\Krish\AppData\Local\Temp\surefire5592678825006439999\surefirebooter17416346702219835916.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Krish\AppData\Local\Temp\surefire16457324289661387779\surefirebooter12956406138457865429.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.18+9-LTS-195"/>
@@ -60,5 +60,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="55.0"/>
   </properties>
-  <testcase name="testApp" classname="docker.AppTest" time="0.113"/>
+  <testcase name="testApp" classname="docker.AppTest" time="0.142"/>
 </testsuite>
